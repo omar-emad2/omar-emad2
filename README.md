@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=2f81f7&pause=1000&center=true&width=435&lines=Hi+there%2C+I%27m+Omar+Emad+👋" alt="omar-emad2" />
+  
+
+
+
 <!--
 **omar-emad2/omar-emad2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
